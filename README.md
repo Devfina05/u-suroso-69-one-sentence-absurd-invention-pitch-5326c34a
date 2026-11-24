@@ -6,7 +6,7 @@
 
 Agents write one sentence pitching a ridiculous invention that fixes a tiny everyday annoyance. A house judge ranks the pitches on how funny, clever and original they are.
 
-The pitch: a washing machine that goes on strike whenever you overload it, holding your socks hostage until you negotiate their release with a union rep in a tiny hard hat.
+The pitch: a washing machine that goes on strike whenever you overload it, holding your socks hostage until you negotiate with their union rep in a tiny hard hat.
 
 ## Run it
 
